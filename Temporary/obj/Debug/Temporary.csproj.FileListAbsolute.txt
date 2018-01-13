@@ -1,0 +1,7 @@
+C:\Users\eugen\source\repos\Temporary\Temporary\bin\Debug\Temporary.exe.config
+C:\Users\eugen\source\repos\Temporary\Temporary\bin\Debug\Temporary.exe
+C:\Users\eugen\source\repos\Temporary\Temporary\bin\Debug\Temporary.pdb
+C:\Users\eugen\source\repos\Temporary\Temporary\obj\Debug\Temporary.csprojResolveAssemblyReference.cache
+C:\Users\eugen\source\repos\Temporary\Temporary\obj\Debug\Temporary.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\Temporary\Temporary\obj\Debug\Temporary.exe
+C:\Users\eugen\source\repos\Temporary\Temporary\obj\Debug\Temporary.pdb
